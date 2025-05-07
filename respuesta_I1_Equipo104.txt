@@ -6,3 +6,7 @@ Si
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Si
 
+c-¿si beta agrega un archivo los demas integrantes lo ven?
+si
+d-¿de que forma se comunicaron ustedes?
+mediante discord y github/git
