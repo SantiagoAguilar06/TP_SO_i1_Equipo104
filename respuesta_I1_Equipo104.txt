@@ -10,3 +10,6 @@ c-¿si beta agrega un archivo los demas integrantes lo ven?
 si
 d-¿de que forma se comunicaron ustedes?
 mediante discord y github/git
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Gamma: mediante modificaciones de archivo y descripciones en los commits
